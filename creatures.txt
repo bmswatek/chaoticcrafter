@@ -1,0 +1,324 @@
+Aarakocra
+Aboleth
+Deva
+Planetar
+Solar
+Animated Armor
+Flying Sword
+Rug of Smothering
+Ankheg
+Azer
+Banshee
+Basilisk
+Behir
+Beholder
+Death Tyrant
+Spectator
+Needle Blight
+Twig Blight
+Vine Blight
+Bugbear
+Bugbear Chief
+Bulette
+Bullywug
+Cambion
+Carrion Crawler
+Centaur
+Chimera
+Chuul
+Cloaker
+Cockatrice
+Couatl
+Crawling Claw
+Cyclops
+Darkmantle
+Death Knight
+Demilich
+Demon Lord (Baphomet)
+Demon Lord (Demogorgon)
+Demon Lord (Graz'zt)
+Demon Lord (Juiblex)
+Demon Lord (Lolth)
+Demon Lord (Orcus)
+Demon Lord (Yeenoghu)
+Demon (Balor)
+Demon (Barlgura)
+Demon (Chasme)
+Demon (Dretch)
+Demon (Glabrezu)
+Demon (Goristro)
+Demon (Hezrou)
+Demon (Manes)
+Demon (Marilith)
+Demon (Nalfeshnee)
+Demon (Quasit)
+Shadow Demon
+Demon (Vrock)
+Demon (Yochlol)
+Barbed Devil
+Bearded Devil
+Bone Devil
+Chain Devil
+Erinyes
+Horned Devil
+Ice Devil
+Imp
+Lemure
+Pit Fiend
+Spined Devil
+Allosaurus
+Ankylosaurus
+Plesiosaurus
+Triceratops
+Pteranodon
+Tyrannosaurus Rex
+Displacer Beast
+Doppelganger
+Dracolich
+Shadow Dragon
+Black Dragon (Wyrmling)
+Black Dragon (Young)
+Black Dragon (Adult)
+Black Dragon (Ancient)
+Blue Dragon (Wyrmling)
+Blue Dragon (Young)
+Blue Dragon (Adult)
+Blue Dragon (Ancient)
+Green Dragon (Wyrmling)
+Green Dragon (Young)
+Green Dragon (Adult)
+Green Dragon (Ancient)
+Red Dragon (Wyrmling)
+Red Dragon (Young)
+Red Dragon (Adult)
+Red Dragon (Ancient)
+White Dragon (Wyrmling)
+White Dragon (Young)
+White Dragon (Adult)
+White Dragon (Ancient)
+Brass Dragon (Wyrmling)
+Brass Dragon (Young)
+Brass Dragon (Adult)
+Brass Dragon (Ancient)
+Bronze Dragon (Wyrmling)
+Bronze Dragon (Young)
+Bronze Dragon (Adult)
+Bronze Dragon (Ancient)
+Copper Dragon (Wyrmling)
+Copper Dragon (Young)
+Copper Dragon (Adult)
+Copper Dragon (Ancient)
+Gold Dragon (Wyrmling)
+Gold Dragon (Young)
+Gold Dragon (Adult)
+Gold Dragon (Ancient)
+Silver Dragon (Wyrmling)
+Silver Dragon (Young)
+Silver Dragon (Adult)
+Silver Dragon (Ancient)
+Dragon Turtle
+Drider
+Dryad
+Duergar
+Air Elemental
+Earth Elemental
+Fire Elemental
+Water Elemental
+Drow 
+Drow Elite Warrior 
+Drow Mage
+Drow Priestess of Lolth
+Empyrean
+Ettercap
+Ettin
+Faerie Dragon
+Flameskull
+Flumph
+Fomorian
+Fungi (Gas Spore)
+Fungi (Shrieker)
+Violet Fungus
+Galeb Duhr
+Gargoyle
+Genie (Dao)
+Genie (Djinni)
+Genie (Efreeti)
+Genie (Marid)
+Ghost
+Ghast
+Ghoul
+Cloud Giant
+Fire Giant
+Frost Giant
+Hill Giant
+Stone Giant
+Storm Giant
+Gibbering Mouther
+Githyanki (Warrior)
+Githyanki (Knight)
+Githzerai (Monk)
+Githzerai (Zerth)
+Gnoll
+Gnoll Pack Lord
+Gnoll Fang of Yeenoghu
+Gnome 
+Deep Gnome
+Goblin
+Goblin Boss
+Clay Golem
+Flesh Golem
+Iron Golem
+Stone Golem
+Gorgon
+Grell
+Grick
+Grick Alpha
+Griffon
+Grimlock
+Green Hag
+Night Hag
+Sea Hag
+Half-Dragon
+Harpy
+Hell Hound
+Helmed Horror
+Hippogriff
+Hobgoblin
+Hobgoblin Captain
+Hobgoblin Warlord
+Homunculus
+Hook Horror
+Hydra
+Intellect Devourer
+Invisible Stalker
+Jackalwere
+Kenku
+Kobold
+Winged Kobold
+Kraken
+Kuo-toa
+Kuo-toa Archpriest
+Kuo-toa Whip
+Lamia
+Lich
+Lizardfolk 
+Lizardfolk Shaman
+Lizard King/Queen
+Werebear
+Wereboar
+Wererat
+Weretiger
+Werewolf
+Magmin
+Manticore
+Medusa
+Dust Mephit
+Ice Mephit
+Magma Mephit
+Mud Mephit
+Smoke Mephit
+Steam Mephit
+Merfolk
+Merrow
+Mimic
+Mind Flayer
+Minotaur
+Monodrone
+Duodrone
+Tridrone
+Quadrone
+Pentadrone
+Mummy
+Mummy Lord
+Myconid Sprout
+Myconid Adult
+Myconid Sovereign
+Bone Naga
+Spirit Naga
+Guardian Naga
+Nightmare
+Nothic
+Ogre
+Half-Ogre
+Oni
+Black Pudding
+Gelatinous Cube
+Gray Ooze 
+Ochre Jelly
+Orc
+Orc War Chief
+Orc Eye of Gruumsh
+Orog
+Otyugh
+Owlbear
+Pegasus
+Peryton
+Piercer
+Pixie
+Pseudodragon
+Purple Worm
+Quaggoth
+Rakshasa
+Remorhaz
+Revenant
+Roc
+Roper
+Rust Monster
+Sahuagin
+Sahuagin Priestess
+Sahuagin Baron
+Fire Snake
+Salamander
+Satyr
+Scarecrow
+Shadow
+Shambling Mound
+Shield Guardian
+Skeleton
+Minotaur Skeleton
+Warhorse Skeleton
+Red Slaad 
+Slaad Tadpole
+Blue Slaad
+Green Slaad
+Gray Slaad
+Death Slaad
+Specter
+Sphinx
+Androsphinx 
+Gynosphinx
+Sprite
+Stirge
+Succubus
+Incubus
+Tarrasque
+Thri-kreen
+Treant
+Troglodyte
+Troll
+Umber Hulk
+Unicorn
+Vampire
+Vampire Spawn
+Water Weird
+Wight
+Will-o'-wisp
+Wraith
+Wyvern
+Xorn
+Yeti
+Abominable Yeti
+Yuan-ti Abomination
+Yuan-ti Malison
+Yuan-ti Pureblood
+Arcanaloth
+Mezzoloth
+Nycaloth
+Ultroloth
+Zombie
+Ogre Zombie
+Beholder Zombie
+
+
+
+

@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^1.8.2",
+    "@discordjs/rest": "^2.0.1",
+    "axiom": "^0.1.6",
+    "axios": "^1.7.2",
+    "better-sqlite3": "^11.7.2",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.58",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.3.1",
+    "mongodb": "^6.1.0",
+    "mongoose": "^7.6.1",
+    "node-fetch": "^2.7.0",
+    "pm2": "^5.3.1",
+    "quick.db": "^9.1.7",
+    "seedrandom": "^3.0.5"
+  },
+  "name": "dnd-bot",
+  "version": "1.0.0",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "satansbabytm",
+  "license": "ISC",
+  "description": ""
+}

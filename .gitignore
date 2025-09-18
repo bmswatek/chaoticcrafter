@@ -9,3 +9,4 @@ node_modules
 /src/commands/tools/purge.js
 /src/commands/tools/hello.js
 
+/src/events/client/guildMemberAdd.js

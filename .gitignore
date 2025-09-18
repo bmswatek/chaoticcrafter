@@ -1,2 +1,11 @@
+#FILES
 .env
 node_modules
+
+/src/commands/moderation/
+
+/src/commands/tools/adminhelp.js
+/src/commands/tools/ping.js
+/src/commands/tools/purge.js
+/src/commands/tools/hello.js
+

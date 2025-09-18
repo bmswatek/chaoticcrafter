@@ -1,6 +1,6 @@
 #FILES
 .env
-node_modules
+node_modules/
 
 /src/commands/moderation/
 
